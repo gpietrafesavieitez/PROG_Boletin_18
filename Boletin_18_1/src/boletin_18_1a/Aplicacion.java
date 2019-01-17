@@ -17,7 +17,7 @@ public class Aplicacion {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Academica a1 = new Academica("Pepe",5,new Persoal(666111000,"correo@gmail.com"));
+        Academica a1 = new Academica("Pepo",5,new Persoal(666111000,"correo@gmail.com"));
         System.out.println(a1.toString());
         
         Academica a2 = new Academica("Lara",7,new Persoal(123456789,"correo@hotmail.com"));
