@@ -7,7 +7,7 @@ package boletin_18_1b;
 
 /**
  *
- * @author Gabriel
+ * @author gpietrafesavieitez@gmail.com
  */
 public class Persoal {
     private int telefono;
