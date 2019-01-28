@@ -15,7 +15,7 @@ public class Academica {
     private static int numReferencia = 2017;
     private String nome;
     private int nota;
-    private boletin_18_1b.Persoal alum;
+    private Persoal alum;
     
     public Academica(){
         numReferencia++;
