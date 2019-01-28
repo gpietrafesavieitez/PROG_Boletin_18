@@ -9,7 +9,7 @@ import boletin_18_1b.Persoal;
 
 /**
  *
- * @author gpietrafesavieitez@gmail.com
+ * @author gpietrafesavieitez
  */
 public class Academica {
     private static int numReferencia = 2017;
